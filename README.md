@@ -25,3 +25,5 @@
 24 - Escreva um programa que solicite ao usuário uma lista de números separados por vírgula e calcule a média desses números. Imprima o resultado formatado.
 
 25 - Escreva um programa que solicite ao usuário uma palavra e conte quantas vogais (a, e, i, o, u) existem nessa palavra. Imprima o resultado.
+
+-https://docs.google.com/document/d/1eEAPXdm2vCSN75tKAJFnG4_kB_kLtvSrAHMcBkSqpWY/edit?tab=t.0

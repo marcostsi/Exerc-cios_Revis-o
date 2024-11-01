@@ -26,4 +26,13 @@
 
 25 - Escreva um programa que solicite ao usuário uma palavra e conte quantas vogais (a, e, i, o, u) existem nessa palavra. Imprima o resultado.
 
-- https://docs.google.com/document/d/1eEAPXdm2vCSN75tKAJFnG4_kB_kLtvSrAHMcBkSqpWY/edit?tab=t.0 (Questão 13 e 14)
+# Atividade do GitHub - Continuação
+# Exercícios
+13 - Descreva o que é o objeto document presente no ambiente do javascript 
+O objeto document é uma interface que representa o conteúdo de uma página web carregada no navegador. Ele faz parte do DOM (Document Object Model), que é uma estrutura hierárquica que permite ao JavaScript acessar e manipular o conteúdo da página web. É fundamental para qualquer manipulação de páginas web com JavaScript, permitindo interatividade. Existem as principais funções do objeto que é acessar o elemento HTML, criar novos elementos, modificar o conteúdo e etc. 
+
+14 - Descreva o que o ambiente de execução do javascript na web é diferente do ambiente no node.
+Navegador: Focado em melhorar a experiência do usuário, manipulando elementos e interações em páginas web.
+Node.js: Voltado para a construção de servidores e aplicações backend, com forte suporte para operações assíncronas e acesso ao sistema de arquivos. 
+A versatilidade do JavaScript, que pode ser usado tanto para criar experiências ricas no frontend quanto para construir infraestruturas robustas no backend. 
+

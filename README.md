@@ -29,10 +29,12 @@
 # Atividade do GitHub - Continuação
 # Exercícios
 13 - Descreva o que é o objeto document presente no ambiente do javascript 
-O objeto document é uma interface que representa o conteúdo de uma página web carregada no navegador. Ele faz parte do DOM (Document Object Model), que é uma estrutura hierárquica que permite ao JavaScript acessar e manipular o conteúdo da página web. É fundamental para qualquer manipulação de páginas web com JavaScript, permitindo interatividade. Existem as principais funções do objeto que é acessar o elemento HTML, criar novos elementos, modificar o conteúdo e etc. 
+
+- O objeto document é uma interface que representa o conteúdo de uma página web carregada no navegador. Ele faz parte do DOM (Document Object Model), que é uma estrutura hierárquica que permite ao JavaScript acessar e manipular o conteúdo da página web. É fundamental para qualquer manipulação de páginas web com JavaScript, permitindo interatividade. Existem as principais funções do objeto que é acessar o elemento HTML, criar novos elementos, modificar o conteúdo e etc. 
 
 14 - Descreva o que o ambiente de execução do javascript na web é diferente do ambiente no node.
-Navegador: Focado em melhorar a experiência do usuário, manipulando elementos e interações em páginas web.
-Node.js: Voltado para a construção de servidores e aplicações backend, com forte suporte para operações assíncronas e acesso ao sistema de arquivos. 
+
+- Navegador: Focado em melhorar a experiência do usuário, manipulando elementos e interações em páginas web.
+- Node.js: Voltado para a construção de servidores e aplicações backend, com forte suporte para operações assíncronas e acesso ao sistema de arquivos. 
 A versatilidade do JavaScript, que pode ser usado tanto para criar experiências ricas no frontend quanto para construir infraestruturas robustas no backend. 
 
